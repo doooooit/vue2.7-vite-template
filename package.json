@@ -1,6 +1,5 @@
 {
-  "name": "wms-front-vite",
-  "private": true,
+  "name": "vue2.7-vite3-template",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

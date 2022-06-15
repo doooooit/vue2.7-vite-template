@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "target": "es6",
+    "module": "esnext",
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./src/*"],
+      "~c/*": ["./src/components/*"]
+    }
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"],
+  "vueCompilerOptions": {
+    "target": 2
+  }
+}

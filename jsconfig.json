@@ -12,6 +12,6 @@
   "include": ["src/**/*"],
   "exclude": ["node_modules"],
   "vueCompilerOptions": {
-    "target": 2
+    "target": 2.7
   }
 }

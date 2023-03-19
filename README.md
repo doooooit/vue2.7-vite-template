@@ -1,8 +1,8 @@
-# A Vue2 Project Template with Vue2.7 & Vite3
+# A Vue2 Project Template with Vue2.7 & Vite
 
 ## Feature
 
-☁️ A lightweight basic template with Vue2.7 & Vite3
+☁️ A lightweight basic template with Vue2.7 & Vite
 
 ## Use it
 

@@ -7,7 +7,7 @@
 ## Use it
 
 ```shell
-npx degit doooooit/vue2.7-vite3-template my-app
+npx degit doooooit/vue2.7-vite-template my-app
 cd my-app
 pnpm i # use `npm i -g pnpm` to install pnpm
 ```
